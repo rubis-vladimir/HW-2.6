@@ -114,7 +114,7 @@ extension SettingsViewController: UITextFieldDelegate {
             case saturatedOfColorTF[1]:
                 sliderGreen.setValue(currentValue, animated: true)
                 setValue()
-            case saturatedOfColorTF[1]:
+            case saturatedOfColorTF[2]:
                 sliderBlue.setValue(currentValue, animated: true)
                 setValue()
             default:
